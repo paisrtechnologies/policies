@@ -1,0 +1,107 @@
+{
+  "label": "AML Policy",
+  "title": "AML Policy",
+  "summary": "Our Anti-Money Laundering Policy outlines our commitment to preventing money laundering and other financial crimes.",
+  "paragraphs": [
+    {
+      "heading": "Introduction",
+      "section": "Paisr Technologies is dedicated to maintaining the integrity of the financial system and ensuring compliance with all applicable anti-money laundering (AML) and counter-terrorism financing (CTF) laws and regulations. This Anti-Money Laundering Policy ('Policy') outlines our commitment to preventing the use of our platform for illicit activities and describes the procedures and controls in place to achieve this goal."
+    },
+    {
+      "heading": "Objectives",
+      "section": "The primary objectives of this Policy are to:",
+      "points": [
+        "Detect and prevent money laundering and terrorism financing activities.",
+        "Ensure compliance with global and local AML/CTF regulations.",
+        "Protect the reputation and operations of Paisr Technologies and its users.",
+        "Establish clear guidelines for identifying, reporting, and managing suspicious activities."
+      ]
+    },
+    {
+      "heading": "Scope",
+      "section": "This Policy applies to all Paisr Technologies employees, agents, users, and partners. It covers all activities conducted through the Platform, including onboarding, transaction processing, and ongoing monitoring."
+    },
+    {
+      "heading": "Key Components",
+      "bullets": [
+        {
+          "title": "Customer Due Diligence (CDD)",
+          "subtitle": "Paisr Technologies implements robust customer identification and verification processes to ensure only legitimate users access the Platform:",
+          "points": [
+            "Know Your Customer (KYC): All users are required to provide accurate identification documents, such as government-issued IDs, proof of address, and business licenses (for corporate accounts).",
+            "Enhanced Due Diligence (EDD): For high-risk users or transactions, additional verification measures are applied, such as detailed source-of-funds checks and in-depth background investigations."
+          ]
+        },
+        {
+          "title": "Ongoing Monitoring",
+          "points": [
+            "Transaction Monitoring: Transactions are monitored in real-time to identify patterns or behaviors that may indicate suspicious activity. Automated systems flag high-risk transactions for manual review.",
+            "Risk-Based Approach: Users and transactions are categorized into risk levels based on factors such as geographic location, industry type, and transaction volume."
+          ]
+        },
+        {
+          "title": "Record Keeping",
+          "subtitle": "Paisr Technologies maintains detailed records of all customer information, transactions, and correspondence:",
+          "points": [
+            "Retention Period: Records are retained for at least five years from the date of the transaction or termination of the user’s account.",
+            "Accessibility: All records are securely stored and accessible for audits or regulatory inquiries."
+          ]
+        },
+        {
+          "title": "Suspicious Activity Reporting (SAR)",
+          "subtitle": "Paisr Technologies is committed to identifying and reporting suspicious activities to the relevant financial intelligence units (FIUs):",
+          "points": [
+            "Reporting Obligations: Suspicious activities are reported promptly, including any attempts to obscure the origin of funds or engage in structured transactions to evade reporting thresholds.",
+            "Internal Escalation: Employees are trained to escalate potential red flags to the compliance team for further investigation and reporting."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Prohibited Activities",
+      "section": "The following activities are strictly prohibited on the Paisr Technologies platform:",
+      "points": [
+        "Money Laundering: Using the Platform to disguise the origin of illicit funds.",
+        "Terrorism Financing: Conducting transactions intended to support terrorist organizations or activities.",
+        "Structuring: Deliberately splitting transactions to evade reporting thresholds.",
+        "Use of Shell Companies: Using entities with no legitimate business purpose to conduct transactions."
+      ]
+    },
+    {
+      "heading": "User Responsibilities",
+      "section": "Users of Paisr Technologies are expected to:",
+      "points": [
+        "Provide accurate and up-to-date information during onboarding and throughout their relationship with the Platform.",
+        "Avoid engaging in transactions or activities designed to conceal the source, ownership, or destination of funds.",
+        "Report any suspicious activity encountered on the Platform to our compliance team at: compliance@paisr.tech"
+      ]
+    },
+    {
+      "heading": "Internal Controls and Training",
+      "section": "Paisr Technologies has established a comprehensive compliance framework to enforce this Policy:",
+      "points": [
+        "Compliance Officer: A designated AML Compliance Officer oversees the implementation and enforcement of AML measures.",
+        "Employee Training: All employees receive regular training on AML/CTF laws, red flags, and reporting procedures.",
+        "Independent Audits: Regular audits are conducted to assess the effectiveness of AML controls and identify areas for improvement."
+      ]
+    },
+    {
+      "heading": "Cooperation with Authorities",
+      "section": "Paisr Technologies fully cooperates with law enforcement and regulatory authorities in investigations related to money laundering or terrorism financing. This includes providing timely access to records, transaction data, and other relevant information."
+    },
+    {
+      "heading": "Non-Compliance Consequences",
+      "section": "Violations of this Policy by users or employees may result in:",
+      "points": [
+        "Immediate suspension or termination of access to the Platform.",
+        "Reporting to relevant authorities and potential legal action.",
+        "Internal disciplinary measures for employees, up to and including termination of employment."
+      ]
+    },
+    {
+      "heading": "Changes to the Policy",
+      "section": "This Policy is subject to periodic review and updates to ensure compliance with evolving laws and regulations. Users will be notified of significant changes via email or updates on our website.",
+      "footer": "By adhering to this Policy, all stakeholders contribute to a secure and compliant financial ecosystem at Paisr Technologies."
+    }
+  ]
+}

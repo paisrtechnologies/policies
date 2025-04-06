@@ -1,0 +1,168 @@
+{
+  "label": "Acceptable Use",
+  "title": "Acceptable Use",
+  "summary": "Please read this Acceptable Use Policy carefully before using our Services. By using our Services, you agree to comply with this policy.",
+  "paragraphs": [
+    {
+      "heading": "Introduction",
+      "section": "The Acceptable Use Policy ('Policy') governs the use of the Paisr Platform and API ('Platform'). This Policy outlines the obligations and restrictions for users to ensure that the Platform is used responsibly, ethically, and in compliance with all applicable laws. By accessing or using our services, you agree to abide by the terms of this Policy. Violations of this Policy may result in the suspension or termination of your account and, in some cases, legal action."
+    },
+    {
+      "heading": "Scope",
+      "section": "This Policy applies to all users, including individuals, businesses, developers, and third parties accessing the Platform through APIs or integrations. The Policy covers all activities conducted through the Platform, including payment processing, data handling, and system interactions."
+    },
+    {
+      "heading": "Prohibited Activities",
+      "section": "You are strictly prohibited from using the Platform to:",
+      "bullets": [
+        {
+          "title": "Engage in Illegal Activities or Activities that:",
+          "points": [
+            "Violate any local, national, or international laws or regulations, including but not limited to those governing financial services, intellectual property, and data protection."
+          ]
+        },
+        {
+          "title": "Facilitate Fraudulent or Deceptive Practices:",
+          "points": [
+            "Submit false or misleading information during registration or transactions.",
+            "Use the Platform to conduct unauthorized transactions or manipulate payment processes."
+          ]
+        },
+        {
+          "title": "Distribute Prohibited Content:",
+          "points": [
+            "Share, transmit, or store material that is illegal, obscene, defamatory, or incites violence or discrimination.",
+            "Engage in activities involving child exploitation, human trafficking, or other unlawful practices."
+          ]
+        },
+        {
+          "title": "Compromise Security:",
+          "points": [
+            "Engage in activities that could compromise the security, integrity, or functionality of the Platform.",
+            "Attempt to bypass authentication measures, hack systems, or distribute malicious software."
+          ]
+        },
+        {
+          "title": "Use the Platform for high-risk financial activities without prior authorization, including but not limited to:",
+          "points": [
+            "Cryptocurrencies or virtual assets without proper regulatory compliance.",
+            "Ponzi schemes, pyramid schemes, or investment fraud.",
+            "Gambling or gaming activities without appropriate licenses."
+          ]
+        },
+        {
+          "title": "Abuse System Resources:",
+          "points": [
+            "Conduct excessive or unauthorized API calls that disrupt the availability of the Platform.",
+            "Use automated systems or scripts to access the Platform in a manner that disrupts the service or degrades its performance.",
+            "Engage in activities that consume excessive bandwidth or resources.",
+            "Deploy bots, crawlers, or other automated systems to scrape data or overload servers."
+          ]
+        },
+        {
+          "title": "Infringe Intellectual Property Rights:",
+          "points": [
+            "Use the Platform to infringe upon the intellectual property rights of others, including copyrights, trademarks, and patents.",
+            "Distribute or share content that violates copyright or trademark laws."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "High-Risk and Restricted Business Categories",
+      "section": "Certain business categories are considered high-risk or restricted. Users in these categories must obtain prior written approval from Paisr Technologies and may be subject to additional terms and conditions. Examples of high-risk categories include but are not limited to:",
+      "points": [
+        "Adult content and services",
+        "Gambling and gaming",
+        "Cryptocurrencies and virtual assets",
+        "Money transmission services without regulatory licenses.",
+        "Pharmaceuticals and healthcare products",
+        "Multi-level marketing (MLM) schemes",
+        "Online dating services",
+        "High-ticket items or services with high chargeback rates",
+        "Sale of counterfeit goods, firearms, or other regulated items.",
+        "Any other business that poses a risk to the integrity or security of the Platform."
+      ]
+    },
+    {
+      "heading": "User Responsibilities",
+      "section": "As a user of the Platform, you are responsible for:",
+      "bullets": [
+        {
+          "title": "Ensuring Compliance:",
+          "points": [
+            "Provide truthful and up-to-date information during account registration and subsequent interactions.",
+            "Notify us promptly of any changes to your business model, ownership, or operational practices.",
+            "Ensuring that your use of the Platform complies with this Policy and all applicable laws.",
+            "Monitoring your account for any unauthorized or suspicious activity."
+          ]
+        },
+        {
+          "title": "Data Protection:",
+          "points": [
+            "Implementing appropriate security measures to protect sensitive data and user information.",
+            "Ensuring that any data shared with third parties complies with applicable data protection laws.",
+            "Protect end user data and sensitive information from unauthorized access or breaches.",
+            "Not sharing your account credentials or access tokens with unauthorized parties."
+          ]
+        },
+        {
+          "title": "Reporting Violations:",
+          "points": [
+            "Promptly reporting any suspected violations of this Policy to Paisr Technologies.",
+            "Cooperating with investigations into potential violations."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Monitoring and Enforcement",
+      "section": "Paisr Technologies reserves the right to monitor user activity on the Platform to ensure compliance with this Policy. We may take appropriate action, including but not limited to:",
+      "bullets": [
+        {
+          "title": "Monitor User Activity:",
+          "points": [
+            "Regularly review user accounts and transactions for compliance with this Policy.",
+            "Use automated systems to detect and prevent fraudulent or abusive activities."
+          ]
+        },
+        {
+          "title": "Request additional Information:",
+          "points": [
+            "Request additional information or documentation from users to verify compliance with this Policy.",
+            "Conduct audits or assessments of user accounts and activities."
+          ]
+        },
+        {
+          "title": "Suspension or Termination:",
+          "points": [
+            "Suspending or terminating your account if we determine that you have violated this Policy.",
+            "Restricting access to certain features or services pending investigation."
+          ]
+        },
+        {
+          "title": "Legal Action:",
+          "points": [
+            "Pursuing legal action against users who violate this Policy, including seeking damages and injunctive relief."
+          ]
+        },
+        {
+          "title": "Reporting to Authorities:",
+          "points": [
+            "Report unlawful activities to relevant authorities and collaborate with investigations where required.",
+            "Report suspected illegal activities to law enforcement or regulatory authorities."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Reporting Violations",
+      "section": "If you believe another user is violating this Policy, please contact our compliance team immediately at compliance@paisr.tech. Reports should include detailed information about the suspected violation, including evidence or transaction details where applicable."
+    },
+    {
+      "heading": "Changes to the Policy",
+      "section": "Paisr Technologies reserves the right to modify this Policy at any time. We will notify users of significant changes through email or by posting a notice on our website. Continued use of the Platform after such changes constitutes acceptance of the revised Policy. By adhering to this Policy, you contribute to a safe, reliable, and efficient environment for all users of Paisr Technologies' Platform.",
+      "footer": "We encourage users to review this Policy periodically to stay informed about our practices and obligations."
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "label": "Privacy Policy",
+  "title": "Privacy Policy",
+  "summary": "Our Privacy Policy explains how we collect, use, and disclose information about you. It also explains how you can access and update your information.",
+  "paragraphs": [
+    {
+      "heading": "Introduction",
+      "section": "Paisr Technologies values your privacy and is committed to protecting your personal data. This Privacy Policy ('Policy') explains how we collect, use, store, and share your information when you use our platform, website, and services. It also describes your rights regarding your personal data and how to exercise them."
+    },
+    {
+      "heading": "Scope",
+      "section": "This Policy applies to all users of our platform and services, including individuals, businesses, and organizations. By using our services, you agree to the collection and use of information in accordance with this Policy."
+    },
+    {
+      "heading": "Information We Collect",
+      "section": "We collect various types of information including but not limited to:",
+      "bullets": [
+        {
+          "title": "Personal Identification Information (PII):",
+          "points": [
+            "Full legal name",
+            "Date of birth",
+            "Email address",
+            "Phone number",
+            "Mailing address",
+            "Payment information",
+            "Bank account details"
+          ]
+        },
+        {
+          "title": "Business Information:",
+          "points": [
+            "Business name",
+            "Business registration number",
+            "Tax identification number",
+            "Business address",
+            "Business contact information",
+            "Beneficial ownership information",
+            "Business structure and ownership details"
+          ]
+        },
+        {
+          "title": "Technical Data:",
+          "points": [
+            "IP address",
+            "Browser type and version",
+            "Time zone setting",
+            "Browser plug-in types and versions",
+            "Operating system and platform",
+            "Device information"
+          ]
+        },
+        {
+          "title": "Usage Data:",
+          "points": [
+            "Information about how you use our website, products, and services",
+            "Pages visited",
+            "Time spent on pages",
+            "Links clicked"
+          ]
+        },
+        {
+          "title": "Location Data:",
+          "points": [
+            "Geolocation data",
+            "IP address-based location information"
+          ]
+        },
+        {
+          "title": "Marketing and Communications Data:",
+          "points": [
+            "Communication preferences",
+            "Feedback and survey responses"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How We Use Your Information",
+      "section": "We use the information we collect for various purposes, including but not limited to:",
+      "bullets": [
+        {
+          "title": "To provide and maintain our services:",
+          "points": [
+            "Process transactions",
+            "Manage user accounts",
+            "Provide customer support"
+          ]
+        },
+        {
+          "title": "To improve our services:",
+          "points": [
+            "Analyze usage patterns",
+            "Enhance user experience",
+            "Develop new features and services"
+          ]
+        },
+        {
+          "title": "To communicate with you:",
+          "points": [
+            "Send service-related notifications",
+            "Respond to inquiries and support requests"
+          ]
+        },
+        {
+          "title": "To comply with legal obligations:",
+          "points": [
+            "Prevent fraud and money laundering",
+            "Comply with regulatory requirements",
+            "Respond to legal requests and investigations"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Legal Basis for Processing Personal Data",
+      "section": "We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:",
+      "bullets": [
+        {
+          "title": "Where we need to perform the contract we are about to enter into or have entered into with you:",
+          "points": [
+            "To provide our services",
+            "To process payments",
+            "To manage your account"
+          ]
+        },
+        {
+          "title": "Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests:",
+          "points": [
+            "To improve our services",
+            "To analyze usage patterns",
+            "To enhance user experience"
+          ]
+        },
+        {
+          "title": "Where we need to comply with a legal obligation:",
+          "points": [
+            "To prevent fraud and money laundering",
+            "To comply with regulatory requirements",
+            "To respond to legal requests and investigations"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Data Sharing and Disclosure",
+      "section": "We may share your information with third parties in the following circumstances:",
+      "footer": "We do not sell or rent your personal data to third parties.",
+      "bullets": [
+        {
+          "title": "Service Providers:",
+          "points": [
+            "We may employ third-party companies and individuals to facilitate our services, provide the service on our behalf, perform service-related services, or assist us in analyzing how our services are used."
+          ]
+        },
+        {
+          "title": "Compliance with Laws:",
+          "points": [
+            "We may disclose your personal data if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency)."
+          ]
+        },
+        {
+          "title": "Business Transfers:",
+          "points": [
+            "If we are involved in a merger, acquisition, or asset sale, your personal data may be transferred. We will provide notice before your personal data is transferred and becomes subject to a different Privacy Policy."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Data Retention",
+      "section": "We will retain your personal data only for as long as is necessary for the purposes set out in this Policy. We will retain and use your personal data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies."
+    },
+    {
+      "heading": "Security of Your Information",
+      "section": "We implement robust security measures to protect your personal data, including:",
+      "footer": "However, please remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.",
+      "bullets": [
+        {
+          "title": "Encryption:",
+          "points": [
+            "We encrypt your personal data before storing it to prevent unauthorized access.",
+            "We use encryption to protect sensitive information transmitted online."
+          ]
+        },
+        {
+          "title": "Access Controls:",
+          "points": [
+            "We restrict access to your personal data to those employees, agents, contractors, and other third parties who have a business need to know."
+          ]
+        },
+        {
+          "title": "Regular Security Assessments:",
+          "points": [
+            "We regularly assess our security measures to ensure the protection of your personal data."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Your Rights",
+      "section": "You have the following rights regarding your personal data:",
+      "footer": "To exercise any of these rights, please contact: privacy@paisr.tech",
+      "bullets": [
+        {
+          "title": "Right to Access:",
+          "points": [
+            "You have the right to request copies of your personal data.",
+            "We may charge you a small fee for this service."
+          ]
+        },
+        {
+          "title": "Right to Rectification:",
+          "points": [
+            "You have the right to request that we correct any information you believe is inaccurate.",
+            "You also have the right to request that we complete information you believe is incomplete."
+          ]
+        },
+        {
+          "title": "Right to Erasure:",
+          "points": [
+            "You have the right to request that we erase your personal data, under certain conditions."
+          ]
+        },
+        {
+          "title": "Right to Restrict Processing:",
+          "points": [
+            "You have the right to request that we restrict the processing of your personal data, under certain conditions."
+          ]
+        },
+        {
+          "title": "Right to Data Portability:",
+          "points": [
+            "You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Cookies and Tracking Technologies",
+      "section": "We use cookies and similar technologies to enhance user experience and collect data. Refer to our Cookie Policy for more details."
+    },
+    {
+      "heading": "Changes to the Policy",
+      "section": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Policy on our website. We encourage you to review this Policy periodically for any updates."
+    },
+    {
+      "heading": "Contact Us",
+      "section": "If you have any questions or concerns about this Privacy Policy, please contact us at: privacy@paisr.tech.",
+      "footer": "By using our services, you acknowledge that you have read and understood this Privacy Policy and agree to its terms."
+    }
+  ]
+}
